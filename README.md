@@ -1,6 +1,6 @@
 # $xuannguyen
 ## 💫Something About Me : 
-  Hi there! My name is Xuan, you can call me Spring hihi. My proverb that i like: "A little everyday goes a long way". I think Life Long Learning is interesting. 
+  Hi there! My name is Xuan, you can call me Spring. My proverb that i like: "A little everyday goes a long way". I think Life Long Learning is interesting. 
   
 
 ## 💻Tech Stack
