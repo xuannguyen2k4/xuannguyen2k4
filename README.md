@@ -13,6 +13,26 @@
 
 ## 🌐Socials
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563979334703) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuan-nguyen-2k4/)
+  a {
+    text-decoration: none; /* Remove underline from links */
+}
+
+img {
+    width: 120px; /* Set the width for the badges */
+    height: auto; /* Maintain aspect ratio */
+    transition: transform 0.3s; /* Add transition for scaling effect */
+}
+
+img:hover {
+    transform: scale(1.1); /* Scale the badge on hover */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+/* Optional: Add spacing between badges */
+a {
+    margin: 0 10px; /* Adjust margin for spacing */
+}
+
 
 
 ---
