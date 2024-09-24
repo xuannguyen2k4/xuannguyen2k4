@@ -12,7 +12,8 @@
 
 
 ## 🌐Socials
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61563979334703) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/](https://www.linkedin.com/in/xuan-nguyen-2k4/)](https://www.linkedin.com/in/xuan-nguyen-2k4/)) 
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563979334703) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuan-nguyen-2k4/)
+
 
 ---
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; padding-right: 100px; display: inline-block;" data-target="animated-image.originalImage">
